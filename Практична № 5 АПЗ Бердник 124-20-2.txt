@@ -1,0 +1,5 @@
+https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Home
+
+IP: 54.161.177.139
+
+Password: y(L-A@N)0FsTj0&$EE=NTc@g=7jfPt24
